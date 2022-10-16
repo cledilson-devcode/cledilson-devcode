@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá 👋
+Sou Cledilson Filho, e estudo na área da TI desde 2016. Hoje continuo buscando me aperfeiçoar como programador. Desejo contribuir com a comunidade através de projetos, dicas e agregando conhecimento para a sociedade.
+
+- 📫 Como chegar até mim: [Linkedin](https://www.linkedin.com/in/cledilson-filho-a0a217149/).
 
 <!--
 **cledilson-devcode/cledilson-devcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
