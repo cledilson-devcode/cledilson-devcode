@@ -1,5 +1,9 @@
-### Olá 👋
-Sou Cledilson Filho, e estudo na área da TI desde 2016. Hoje continuo buscando me aperfeiçoar como programador. Desejo contribuir com a comunidade através de projetos, dicas e agregando conhecimento para a sociedade.
+### Hello 👋
+I'm Cledilson, a 28-year-old Brazilian who constantly seeks responsibilities and commitments that bring meaning to my journey. I embarked on my professional path in the telemarketing industry, but soon found my true calling in the field of Software Development.
+
+My journey led me to dive into the realm of REST API development, where I apply my expertise in the Java language and the Spring Boot framework to create projects. I have knowledge in API documentation and use Swagger to ensure this.
+
+To ensure the quality and integrity of my work, I employ the approach of integration testing using JUnit. My expertise doesn't stop there; it encompasses both SQL and NoSQL databases, as well as Object-Relational Mapping (ORM). Additionally, I use Docker for API deployment and operations.
 
 - 📫 Como chegar até mim: [Linkedin](https://www.linkedin.com/in/cledilson-filho-a0a217149/).
 
