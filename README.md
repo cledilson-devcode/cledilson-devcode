@@ -5,7 +5,7 @@
 ### Sobre mim
 Olá, sou Cledilson, um brasileiro de 28 anos que busca constantemente responsabilidades e compromissos que deem significado à minha jornada. Iniciei minha trajetória profissional no cenário do telemarketing, mas logo encontrei minha verdadeira vocação na área de Desenvolvimento de Software.
 
-Minha jornada me conduziu ao universo do desenvolvimento de APIs REST, onde aplico minha expertise na linguagem Java e no framework Spring Boot para criar projetos. Possuo conhecimentos em documentação de APIs e uso o Swagger para garantir isso.
+Minha jornada me conduziu ao universo do desenvolvimento de APIs REST, onde aplico meus conhecimentos da linguagem Java e do framework Spring Boot para criar projetos. Possuo conhecimentos em documentação de APIs e uso o Swagger para garantir isso.
 
 Para assegurar a qualidade e a integridade do meu trabalho, utilizo a abordagem de testes de integração com JUnit. Meus conhecimentos não se limitam a isso; abrangem tanto bancos de dados SQL, bem como o Mapeamento Objeto-Relacional (ORM). Além disso, utilizo o Docker para implantação e operações de APIs.
 
