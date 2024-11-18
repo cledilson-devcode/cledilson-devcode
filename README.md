@@ -3,7 +3,7 @@
 ---
 
 ### Sobre mim
-Olá, sou Cledilson, um brasileiro de 28 anos que busca constantemente responsabilidades e compromissos que deem significado à minha jornada. Iniciei minha trajetória profissional no cenário do telemarketing, mas logo encontrei minha verdadeira vocação na área de Desenvolvimento de Software.
+Olá, sou Cledilson, um brasileiro de 29 anos que busca constantemente responsabilidades e compromissos que deem significado à minha jornada. Iniciei minha trajetória profissional no cenário do telemarketing, mas logo encontrei minha verdadeira vocação na área de Desenvolvimento de Software.
 
 Minha jornada me conduziu ao universo do desenvolvimento de APIs REST, onde aplico meus conhecimentos da linguagem Java e do framework Spring Boot para criar projetos. Possuo conhecimentos em documentação de APIs e uso o Swagger para garantir isso.
 
