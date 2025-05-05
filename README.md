@@ -3,11 +3,7 @@
 ---
 
 ### Sobre mim
-Olá, sou Cledilson, um brasileiro de 29 anos que busca constantemente responsabilidades e compromissos que deem significado à minha jornada. Iniciei minha trajetória profissional no cenário do telemarketing, mas logo encontrei minha verdadeira vocação na área de Desenvolvimento de Software.
-
-Minha jornada me conduziu ao universo do desenvolvimento de APIs REST, onde aplico meus conhecimentos da linguagem Java e do framework Spring Boot para criar projetos. Possuo conhecimentos em documentação de APIs e uso o Swagger para garantir isso.
-
-Para assegurar a qualidade e a integridade do meu trabalho, utilizo a abordagem de testes de integração com JUnit. Meus conhecimentos não se limitam a isso; abrangem tanto bancos de dados SQL, bem como o Mapeamento Objeto-Relacional (ORM). Além disso, utilizo o Docker para implantação e operações de APIs.
+Sou Cledilson, brasileiro, 30 anos, apaixonado por desafios que deem propósito à minha carreira. Atuo na área de Desenvolvimento de Software, com experiência em APIs REST usando Java e Spring Boot, incluindo documentação com Swagger. Trabalho com testes de integração usando JUnit e possuo conhecimentos em bancos de dados SQL e ORM. Recentemente, ampliei minha formação estudando sistemas embarcados com Raspberry Pi Pico W, programando em C para controle de hardware e sensores. Busco oportunidades para aplicar e expandir esses conhecimentos em projetos inovadores.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/Cledilson)
